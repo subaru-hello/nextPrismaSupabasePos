@@ -15,5 +15,8 @@
   },
   "devDependencies": {
     "prisma": "4.14.1"
+  },
+  "volta": {
+    "node": "16.20.0"
   }
 }
